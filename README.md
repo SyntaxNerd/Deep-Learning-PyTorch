@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="<img width="512" height="512" alt="PyTorch" src="https://github.com/user-attachments/assets/b1b4bee5-0b1f-4dea-9007-4f80f39d9d1c" />
-" width="80%" alt="Deep Learning Banner">
+  <img src="<img width="512" height="512" alt="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
+" width="80%" alt="Deep Learning ">
 </p>
 
-<h1 align="center">🧠 Deep Learning Experiments</h1>
+<h1 align="center">🧠 Deep Learning with PyTorch</h1>
 
 <p align="center">
   <i>A practical repo where I build & train deep learning models using PyTorch.</i><br><br>
