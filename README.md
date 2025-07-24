@@ -1,9 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="<img width="512" height="512" alt="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
-" width="80%" alt="Deep Learning ">
-</p>
-
 <h1 align="center">🧠 Deep Learning with PyTorch</h1>
 
 <p align="center">
