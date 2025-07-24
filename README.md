@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="![Uploading image.png…]()
+  <img src="<img width="512" height="512" alt="PyTorch" src="https://github.com/user-attachments/assets/b1b4bee5-0b1f-4dea-9007-4f80f39d9d1c" />
 " width="80%" alt="Deep Learning Banner">
 </p>
 
