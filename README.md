@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="<a href="https://www.flaticon.com/free-icons/neural-network" title="neural network icons">Neural network icons created by Freepik - Flaticon</a>" width="80%" alt="Deep Learning Banner">
+  <img src="![Uploading image.png…]()
+" width="80%" alt="Deep Learning Banner">
 </p>
 
 <h1 align="center">🧠 Deep Learning Experiments</h1>
